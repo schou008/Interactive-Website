@@ -6,7 +6,7 @@ body {
 
 header, footer {
     background-color: #e64e4e;
-    color: white;
+    color: green;
     text-align: center;
     padding: 1em;
 }
@@ -19,7 +19,7 @@ section {
     border: 1px solid #ccc;
     padding: 10px;
     margin-bottom: 20px;
-    background-color: white;
+    background-color: green;
 }
 
 img {
